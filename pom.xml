@@ -35,9 +35,9 @@
     <description>Resource Provider with Couchbase Persistence for Apache Sling.</description>
   
     <scm>
-        <connection>scm:svn:http://svn.apache.org/repos/asf/sling/trunk/contrib/nosql/couchbase-resourceprovider</connection>
-        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/sling/trunk/contrib/nosql/couchbase-resourceprovider</developerConnection>
-        <url>http://svn.apache.org/viewvc/sling/trunk/contrib/nosql/couchbase-resourceprovider</url>
+        <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-nosql-couchbase-resourceprovider.git</conncetion>
+        <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-nosql-couchbase-resourceprovider.git</developerConnection>
+        <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-nosql-couchbase-resourceprovider.git</url>
     </scm>
 
     <properties>
